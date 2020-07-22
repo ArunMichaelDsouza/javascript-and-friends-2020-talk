@@ -26,7 +26,7 @@ Topics to be covered
 
 ## Slides
 PDF version available on GitHub - 
-[Link]()
+[Link](https://github.com/ArunMichaelDsouza/javascript-and-friends-2020-talk/blob/master/slides/Using%20the%20gamepad%20API%20for%20a%20better%20gaming%20experience%20on%20the%20web.pdf)
 
 Also on Speaker Deck - 
 [Link]()
