@@ -29,7 +29,7 @@ PDF version available on GitHub -
 [Link](https://github.com/ArunMichaelDsouza/javascript-and-friends-2020-talk/blob/master/slides/Using%20the%20gamepad%20API%20for%20a%20better%20gaming%20experience%20on%20the%20web.pdf)
 
 Also on Speaker Deck - 
-[Link]()
+[Link](https://speakerdeck.com/arunmichaeldsouza/using-the-gamepad-api-for-a-better-gaming-experience-on-the-web)
 
 ## Talk video
 Available on YouTube -
