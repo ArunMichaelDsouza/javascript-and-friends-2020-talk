@@ -31,9 +31,9 @@ PDF version available on GitHub -
 Also on Speaker Deck - 
 [Link](https://speakerdeck.com/arunmichaeldsouza/using-the-gamepad-api-for-a-better-gaming-experience-on-the-web)
 
-<!-- ## Talk video
+## Talk video
 Available on YouTube -
-[Link]() -->
+[Link](https://youtu.be/zqFubo31HGY?t=22038)
 
 ## License
 MIT License
